@@ -12,7 +12,7 @@
     },
     "keywords": [
         "javascript",
-        "immutable"
+        "immutable",
         "cow"
     ],
     "author": "Joaquín Bernal <jobedom@gmail.com>",
@@ -22,7 +22,6 @@
     },
     "homepage": "https://github.com/jobedom/cattle",
     "devDependencies": {
-
     },
     "dependencies": {
         "cow": "^0.2.2"
