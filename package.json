@@ -4,7 +4,7 @@
     "description": "Handles changes in plain Javascript objects using a copy-on-write strategy.",
     "main": "index.js",
     "scripts": {
-       "test": "node test/main.js"
+       "test": "node --harmony test/main.js"
     },
     "repository": {
         "type": "git",
