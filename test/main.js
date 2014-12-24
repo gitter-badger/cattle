@@ -1,6 +1,6 @@
 'use strict';
 
-var Cattle = require('./cattle');
+var Cattle = require('../index');
 
 var original = Cattle.frozen({
    one: 1,
