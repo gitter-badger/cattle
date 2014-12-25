@@ -1,5 +1,7 @@
 # Cattle
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jobedom/cattle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM package](https://nodei.co/npm/cattle.png?downloads=true)](https://npmjs.org/package/cattle)
 
 [![Build Status](https://travis-ci.org/jobedom/cattle.png?branch=master)](https://travis-ci.org/jobedom/cattle)
